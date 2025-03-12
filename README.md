@@ -1,4 +1,4 @@
-# Azure & DevOps Implementation for an Rewards & Recognition Saas Platform
+# Azure & DevOps Implementation for a Rewards & Recognition Saas Platform
 
 ## Project Description
 Implemented a robust DevOps pipeline for a rewards & recognition platform that manages reward points and redemption of reward points for clients and their customers. The objective was to enhance deployment automation, improve system reliability, and enable seamless CI/CD workflows to support continuous software releases.
